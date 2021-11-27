@@ -6,9 +6,9 @@ namespace CensusAnalyzerProblem
 {
     public class IndianSatateCensusData
     {
-        public string State { get; set; }
-        public long Population { get; set; }
-        public long AreaInSqKm { get; set; }
-        public long DensityPerSqKm { get; set; }
+        public string SrNo { get; set; }
+        public long StateName { get; set; }
+        public long TIN { get; set; }
+        public long StateCode { get; set; }
     }
 }

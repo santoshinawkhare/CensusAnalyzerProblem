@@ -41,5 +41,10 @@ namespace CensusAnalyzerProblem
             }
 
         }
+
+        public object loadIndianStateCodeCensusData(object iNDIAN_STATE_CODE_CENSUS_DATA_PATH)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
